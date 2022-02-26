@@ -1,0 +1,2 @@
+TOKEN = '5240917158:AAEdTw3dGPnvJ--GnNx71lb4HJxZfTKDVBE'
+# cc_bot

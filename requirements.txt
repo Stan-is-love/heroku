@@ -1,0 +1,5 @@
+aiogram
+datetime
+sqlite3
+logging
+ast
